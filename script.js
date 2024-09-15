@@ -381,7 +381,7 @@ document.getElementById('customerForm').addEventListener('submit', function (e) 
             });
 
             // Construir el mensaje para WhatsApp
-            const whatsappNumber = '573175909315';  // Reemplaza con el número de WhatsApp en formato internacional, sin el "+"
+            const whatsappNumber = '573127112369';  // Reemplaza con el número de WhatsApp en formato internacional, sin el "+"
             const whatsappMessage = `Datos de cliente:\n\nNombre: ${name}\nApellidos: ${surname}\nDirección: ${address}\nDepartamento: ${department}\nCiudad: ${city}\nTeléfono: ${phone}`;
 
             // Codificar el mensaje para que sea compatible con una URL
